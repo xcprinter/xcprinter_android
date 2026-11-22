@@ -1,5 +1,6 @@
-Xichen Printer Android Official SDK
-How to use
+Printer Android SDK
+
+## How to use
 Copy the AAR file to the target project, for example：
 
 `app/libs/bluetooth-sdk-release.aar`
